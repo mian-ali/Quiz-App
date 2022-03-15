@@ -1,6 +1,4 @@
-# Quiz-App
-
-
+# Quiz App JavaScripts
 
 #### Project Priview
 
